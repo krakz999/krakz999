@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">Full Stack Web & Mobile Developer</h3>
+<h1>Hi 👋, I'm Martin</h1>
+<h3>Full Stack Web & Mobile Developer</h3>
 <ul>
   <li>
 👯 I’m looking to collaborate on  <b>web and mobile projects</b> of any size.
