@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">Full Stack Web & Mobile Developer</h3>
-- 👯 I’m looking to collaborate on **Web and mobile application development.**
-- 💬 Ask me about **Typescript, Next.js, React, React Native, NestJS, or any general software development questions.**
-- 📫 Get in touch: **martin999b@gmail.com**
+<ul>
+  <li>
+👯 I’m looking to collaborate on  <b>web and mobile projects</b> of any size.
+  <li>
+💬 Ask me about  <b>Typescript, Next.js, React, React Native, NestJS</b>, or any general software development questions.
+  </li>
+  <li>
+  📫 Get in touch: <b>martin999b@gmail.com</b>
+  </li>
+</ul>
 
 <div> <a href="https://twitter.com/martinfulopdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/martin-fulop-ba11b753" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
