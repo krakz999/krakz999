@@ -8,7 +8,7 @@
 💬 Ask me about  <b>Typescript, Next.js, React, React Native, NestJS</b>, or any general software development questions.
   </li>
   <li>
-  📫 Get in touch: <b>martin999b@gmail.com</b>
+  📫 Get in touch: <b>hi@martinfulop.dev</b>
   </li>
 </ul>
 
