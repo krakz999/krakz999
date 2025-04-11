@@ -3,8 +3,6 @@
 <h3>My portfolio: https://martinfulop.dev</h3>
 <ul>
   <li>
-👯 I’m looking to collaborate on  <b>web and mobile projects</b> of any size.
-  <li>
 💬 Ask me about  <b>Typescript, Next.js, React, React Native, NestJS</b>, or any general software development questions.
   </li>
   <li>
