@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Martin</h1>
 <h3>Full Stack Web & Mobile Application Developer</h3>
-<h3>My portfolio: https://martinfulop.dev</h3>
+<h3>🚀 Visit <a href="https://martinfulop.dev">Martin Fulop’s portfolio website</a></h3>
 <ul>
   <li>
 💬 Ask me about  <b>Typescript, Next.js, React, React Native, NestJS</b>, or any general software development questions.
